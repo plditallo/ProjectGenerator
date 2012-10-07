@@ -1,0 +1,9 @@
+datagenerator
+datagenerator.fields
+datagenerator.fields.compress
+datagenerator.fields.config
+datagenerator.generators
+datagenerator.gui
+datagenerator.loaders
+datagenerator.util
+datagenerator.util.filters

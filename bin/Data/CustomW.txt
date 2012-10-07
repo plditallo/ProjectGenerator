@@ -1,0 +1,4 @@
+Very Likely, 100
+Kinda Likely, 50
+Not Very, 10
+Not At All, 1
