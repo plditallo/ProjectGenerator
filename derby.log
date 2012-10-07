@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+2011-04-19 17:03:19.301 GMT:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.2.1 - (999685): instance a816c00e-012f-6eb7-540a-0000065c1df0 
+on database directory C:\Users\wildbillcat\Desktop\Desktop\Development\Database\ProjectGenerator\DataGeneratorDB  with class loader sun.misc.Launcher$AppClassLoader@1ea2dfe 
+Loaded from file:/C:/Program%20Files%20(x86)/eclipse-Java/plugins/org.apache.derby.core_10.6.2/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_24-b07
+Database Class Loader started - derby.database.classpath=''
+
+2011-04-19 17:03:42.077 GMT:
+Shutting down instance a816c00e-012f-6eb7-540a-0000065c1df0 with class loader sun.misc.Launcher$AppClassLoader@1ea2dfe 
+----------------------------------------------------------------
