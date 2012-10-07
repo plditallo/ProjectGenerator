@@ -46,7 +46,7 @@ public class Utils {
 	        int i = f.lastIndexOf('.');
 
 	        if (i > 0 &&  i < f.length() - 1) {
-	            ext = f.substring(0, i);
+	            ext = f.substring(0, i+1);
 	            ext += "." + ex;
 	        }else{
 	        	if(i>0){
